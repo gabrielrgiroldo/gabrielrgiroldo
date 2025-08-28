@@ -1,6 +1,6 @@
 # 🧑‍💻 Gabriel Giroldo
 
-Meu nome é Gabriel Ribeiro Giroldo, tenho 23 anos e nasci em São Paulo capital. Sou apaixonado apaixonado por Tecnologia da Informação desde criança, e desde então tenho estudado está área que sempre interessado. Graduado em Ánalise e Desenvolvimento de Sistemas, na Universidade Santa Cecília - UNISANTA. Tenho afinidade em diversas áreas da informatica, como Suporte Técnico, Programação Front-End e Back-End, Banco de Dados, Engenharia de Software, Modelagem de Software e Redes de Computadores. 
+Meu nome é Gabriel Ribeiro Giroldo, tenho 23 anos e nasci em São Paulo capital. Sou apaixonado por Tecnologia da Informação desde cedo, e desde então tenho estudado está área que sempre interessado. Graduado em Ánalise e Desenvolvimento de Sistemas, na Universidade Santa Cecília - UNISANTA. Tenho afinidade em diversas áreas da informatica, como Suporte Técnico, Programação Front-End e Back-End, Banco de Dados, Engenharia de Software, Modelagem de Software e Redes de Computadores. 
 
 
     
