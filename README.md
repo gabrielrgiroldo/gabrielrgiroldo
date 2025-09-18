@@ -12,9 +12,11 @@ Sou apaixonado por tecnologia e programação. Recentemente me formei em Anális
 - Lógica de programação
 - HTML, CSS e JavaScript
 - Conhecimento de Linguagens de programação como C++, Python, Java e C#
-- Git e GitHub
 - Noções de Banco de Dados como MySQL, MongoDB e Delph.
+- Suporte Técnico
+- Git e Github
 - Conhecimento em API's, repositórios e frameworks
+  
 - Trabalho em equipe e comunicação
 
 ## Projetos
