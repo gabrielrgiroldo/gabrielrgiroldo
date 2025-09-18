@@ -1,129 +1,31 @@
-# 🧑‍💻 Gabriel Giroldo
+# Olá! Eu sou Gabriel Giroldo 👋
 
-Meu nome é Gabriel Ribeiro Giroldo, tenho 23 anos e nasci em São Paulo capital. Sou apaixonado por Tecnologia da Informação desde cedo, e desde então tenho estudado está área que sempre interessado. Graduado em Ánalise e Desenvolvimento de Sistemas, na Universidade Santa Cecília - UNISANTA. Tenho afinidade em diversas áreas da informatica, como Suporte Técnico, Programação Front-End e Back-End, Banco de Dados, Engenharia de Software, Modelagem de Software e Redes de Computadores. 
+🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
+🔍 Buscando minha primeira oportunidade como desenvolvedor
 
+## Sobre mim
 
-    
-</p>
+Sou apaixonado por tecnologia e programação. Recentemente me formei em Análise e Desenvolvimento de Sistemas e estou em busca do meu primeiro emprego na área de desenvolvimento. Tenho facilidade para aprender, gosto de desafios e estou sempre buscando aprimorar meus conhecimentos.
+
+## Habilidades
+
+- Lógica de programação
+- HTML, CSS e JavaScript
+- Git e GitHub
+- Noções de Python e SQL
+- Trabalho em equipe e comunicação
+
+## Projetos
+
+- [HTML-file](https://github.com/gabrielrgiroldo/HTML-file): Exemplos básicos de HTML para estudos
+- [desktop-tutorial](https://github.com/gabrielrgiroldo/desktop-tutorial): Repositório para treinar comandos do Git e GitHub
+- [Larissakich](https://github.com/gabrielrgiroldo/Larissakich): Projeto pessoal para prática de versionamento
+
+## Como me encontrar
+
+- [LinkedIn](#) *(adicione seu link aqui)*
+- Email: seuemail@exemplo.com
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-
+*Obrigado por visitar meu portfólio! Estou aberto para oportunidades e desafios.*
