@@ -1,18 +1,20 @@
-# Olá! Eu sou Gabriel Giroldo 👋
+# Olá! Meu nome é Gabriel Giroldo 👋
 
 🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
-🔍 Buscando minha primeira oportunidade como desenvolvedor
+🔍 Buscando minha primeira oportunidade na Área de Tecnologia da Informação.
 
 ## Sobre mim
 
-Sou apaixonado por tecnologia e programação. Recentemente me formei em Análise e Desenvolvimento de Sistemas e estou em busca do meu primeiro emprego na área de desenvolvimento. Tenho facilidade para aprender, gosto de desafios e estou sempre buscando aprimorar meus conhecimentos.
+Sou apaixonado por tecnologia e programação. Recentemente me formei em Análise e Desenvolvimento de Sistemas e estou em busca do meu primeiro emprego na área de T.I. Tenho facilidade para aprender, gosto de desafios e estou sempre buscando aprimorar meus conhecimentos.
 
 ## Habilidades
 
 - Lógica de programação
 - HTML, CSS e JavaScript
+- Conhecimento de Linguagens de programação como C++, Python, Java e C#
 - Git e GitHub
-- Noções de Python e SQL
+- Noções de Banco de Dados como MySQL, MongoDB e Delph.
+- Conhecimento em API's, repositórios e frameworks
 - Trabalho em equipe e comunicação
 
 ## Projetos
