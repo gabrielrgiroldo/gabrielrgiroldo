@@ -23,8 +23,8 @@ Sou apaixonado por tecnologia e programação. Recentemente me formei em Anális
 
 ## Como me encontrar
 
-- [LinkedIn](#) *(adicione seu link aqui)*
-- Email: seuemail@exemplo.com
+- [LinkedIn](#) *(https://www.linkedin.com/in/gabriel-ribeiro-giroldo/)*
+- Email: gabrielgiroldobr@outlook.com
 
 ---
 
